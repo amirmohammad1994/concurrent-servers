@@ -1,0 +1,3 @@
+/home/amirmohammad/git/concurrent-servers/build/CMakeFiles/edit_cache.dir
+/home/amirmohammad/git/concurrent-servers/build/CMakeFiles/rebuild_cache.dir
+/home/amirmohammad/git/concurrent-servers/build/CMakeFiles/concurrent-server.dir
