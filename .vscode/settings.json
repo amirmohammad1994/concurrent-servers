@@ -1,0 +1,15 @@
+{
+    // "C_Cpp.intelliSenseEngineFallback": "Disabled"
+    "C_Cpp.enhancedColorization": "Enabled",
+    "files.associations": {
+        "functional": "cpp",
+        "fstream": "cpp",
+        "sstream": "cpp",
+        "stdexcept": "cpp",
+        "tuple": "cpp",
+        "typeinfo": "cpp",
+        "*.tcc": "cpp",
+        "streambuf": "cpp"
+    }
+
+}

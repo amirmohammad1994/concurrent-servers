@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(concurrent-server)
+file(GLOB SOURCES "src/*.cpp")
+add_executable(${PROJECT_NAME} ${SOURCES})
+target_include_directories(target PRIVATE ${PROJECT_SOURCE_DIR}/include)
